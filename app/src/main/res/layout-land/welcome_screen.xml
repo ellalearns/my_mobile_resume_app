@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#ece4d7"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/welcomeText"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center|top"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginRight="60dp"
+            android:animateLayoutChanges="false"
+            android:background="#ece4d7"
+            android:elevation="250dp"
+            app:cardBackgroundColor="#610c46"
+            app:cardCornerRadius="100dp"
+            app:cardElevation="50dp">
+
+            <TextView
+                android:id="@+id/textWelcome"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center|top"
+                android:background="#ece4d7"
+                android:elevation="150dp"
+                android:gravity="center"
+                android:shadowColor="#610c46"
+                android:shadowDy="15"
+                android:shadowRadius="10"
+                android:text="@string/name_welcome"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="100dp"
+            android:layout_marginBottom="10dp"
+            android:background="#610c46"
+            android:elevation="150dp"
+            app:cardBackgroundColor="#610c46"
+            app:cardCornerRadius="150dp"
+            app:cardElevation="150dp">
+
+
+            <Button
+                android:id="@+id/buttonWelcome"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#610c46"
+                android:clickable="true"
+                android:elevation="150dp"
+                android:freezesText="false"
+                android:longClickable="true"
+                android:shadowColor="#610c46"
+                android:shadowDx="100"
+                android:shadowDy="150"
+                android:shadowRadius="100"
+                android:text="get started"
+                android:textAllCaps="true"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="#f2f3f5"
+                android:textStyle="bold" />
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

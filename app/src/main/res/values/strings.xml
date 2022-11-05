@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="name_main">Emmanuella Ngozika Agu</string>
+    <string name="title_main">Full Stack Software Engineer</string>
+    <string name="about_main">I\'m an aspiring full stack software engineer. I have completed courses spanning software engineering concepts and have built cool projects using Python, JavaScript, and React.js. Wanna Know More?</string>
+    <string name="button_main">I want to know more!</string>
+    <string name="name_welcome">{ Ella Maria }</string>
+    <string name="button_welcome">Get Started</string>
+    <string name="image_alt">Main Image</string>
+    <string name="experience">Worked on a team to deploy a secure quiz game to the internet.</string>
+    <string name="detailed_about">I\'m an aspiring full stack software engineer. I have completed courses spanning software engineering concepts and have built cool projects using Python, JavaScript, and React.js.</string>
+    <string name="name_detailed">Emmanuella Agu</string>
+    <string name="title_detailed">Full Stack Software Engineer</string>
+    <string name="location_detailed">Enugu, Nigeria</string>
+    <string name="experience_heading">Experience</string>
+    <string name="projects_heading">Projects</string>
+    <string name="pro1">Fyuur App</string>
+    <string name="pro1_desc">Artists and Venue owners connect online via this app.</string>
+    <string name="pro2">Trivia API</string>
+    <string name="pro2_desc">Interact fully with a REST API using this project.</string>
+    <string name="pro3">App Deployment</string>
+    <string name="pro3_desc">Deployed an app using Amazon Web Services</string>
+    <string name="contact1">Call me</string>
+    <string name="contact2">Email me</string>
+    <string name="image_alt_2">image_alt_2</string>
+    <string name="linkedin">linkedin</string>
+    <string name="github">github</string>
+    <string name="gmail">gmail</string>
+    <string name="call_me">CALL ME</string>
+    <string name="light_dark">Light/Dark</string>
+    <string name="portrait_landscape">Portrait/Landscape</string>
+    <string name="back">Back</string>
+</resources>
