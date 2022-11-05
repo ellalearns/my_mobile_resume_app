@@ -21,7 +21,7 @@ Here's the link to the APK file on Google Drive:
 https://drive.google.com/file/d/18HXuFhfwYR60RsF-SKXUc6NN0yLY4g0A/view?usp=share_link
 
 ## Challenges
-First challenge, how to use android studio 😳. But it worked. I already have some experience in programming, so learning Kotlin was not too challenging. 
+First challenge, how to use android studio 😳. But it worked. I already have some experience in programming, so learning Kotlin was not too challenging. Though, it seems like Flutter is the way to go. 
 
 ## Link to Appetize.io
 A link to the Appetize.io link:
