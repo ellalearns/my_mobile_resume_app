@@ -25,6 +25,6 @@ First challenge, how to use android studio 😳. But it worked. I already have s
 
 ## Link to Appetize.io
 A link to the Appetize.io link:
-https://appetize.io/app/cceqq54gsj4wwratkoskwwef44?device=pixel6&osVersion=12.0&scale=75&orientation=landscape
+https://appetize.io/app/cceqq54gsj4wwratkoskwwef44?device=pixel6&osVersion=12.0&scale=75
 
 #### Thank you.
